@@ -40,11 +40,11 @@ que eres el mas rapido en la pista.
 
  ### *Reglas de Juego.*
    * > **Tiempo:** Al momento de que el jugador cruza la linea, empieza a correr el tiempo, el cronometro se detendra cuando el jugador de una vuelta completa al circuito.
-   * > **Bonus:** Al tocar un powerup se otortgan 3 segundos donde la velocidad se auto incrementa.
    * > **Velocidad:** Cuando se sale del circuito o toca algun obstaculo el auto pierde velocidad o se puede detener.
    * > **Niveles:** Antes de iniciar el jugador podrá seleccionar el nivel de dificultad donde dependiendo el nivel existen mas obstaculos.
     
  ### *Pantallas de Juego*
+ 
  ### *Plan de creación de VideoJuego.*
 
 ## Código Fuente
@@ -80,6 +80,7 @@ que eres el mas rapido en la pista.
   * > [Video]()
   * > [Quiz](https://drive.google.com/file/d/1Fm9BVniQOOABHTasZGKOou3W4Zd_44bQ/view?usp=sharing)
 * VideoJuego
+  * > [VideoJuego](https://drive.google.com/file/d/1jPLjm8Zzm05UIX26kgY0GFhNByQE6qHo/view?usp=sharing)
 
 ## Planificación
 
