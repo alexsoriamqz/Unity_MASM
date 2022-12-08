@@ -81,6 +81,8 @@ que eres el mas rapido en la pista.
   * > [Quiz](https://drive.google.com/file/d/1Fm9BVniQOOABHTasZGKOou3W4Zd_44bQ/view?usp=sharing)
 * VideoJuego
   * > [VideoJuego](https://drive.google.com/file/d/1jPLjm8Zzm05UIX26kgY0GFhNByQE6qHo/view?usp=sharing)
+* Descargar Video Juego
+  * > [VideoJuego](https://drive.google.com/file/d/1G8OncaRDRAKBzv0R-zDU4lcw7b7g_5Fr/view?usp=sharing)
 
 ## Planificación
 
